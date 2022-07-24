@@ -64,7 +64,7 @@ WELCOME_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention} 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 {group_name}"""
 
 FILECAPTION_MESSAGE = """
-• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @Night_MovieZ"""
+• `{file_name}` \n 𝙹𝙾𝙸𝙽 : @FF_MAIN"""
 
 ADMIN_CMD_MESSAGE = """
 𝙰𝙳𝙼𝙸𝙽𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 :-
