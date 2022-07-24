@@ -27,8 +27,7 @@
 START_MESSAGE = """
 👋Hello {mention}..!
 It's Power Full [{name}](t.me/{username}) Here 😎
-Add Me To Your Group And Make Sure I'm an Admin There..!
-And Enjoy My Pever Show..! 🤪"""
+I 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 & 𝚂𝙴𝚁𝙸𝙴𝚂,𝙹𝚞𝚜𝚝 𝚂𝚎𝚗𝚍 𝙼𝚎 𝚂𝚎𝚛𝚒𝚎𝚜 𝚘𝚛 𝙼𝚘𝚟𝚒𝚎𝚜 𝙽𝚊𝚖𝚎 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
 
 HELP_MESSAGE = """
 𝙷𝙴𝙻𝙻𝙾 {mention}
