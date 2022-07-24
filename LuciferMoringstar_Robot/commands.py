@@ -80,7 +80,7 @@ async def start(bot: lucifermoringstar_robot, update):
         return
 
     if len(update.command) != 2:
-        pr0fess0r_99 = [[ InlineKeyboardButton("Share & Support", url="https://telegram.me/share/url?url=t.me/RBMoviesBot") ],
+        pr0fess0r_99 = [[ InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')],
                         [ InlineKeyboardButton("MAIN Channel", url=f"t.me/{SUPPORT}"), InlineKeyboardButton("𝚄𝙿𝙳𝙰𝚃𝙴𝚂 🎬", url="https://t.me/new_moviyzz") ],
                         [ InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿", callback_data="help"), InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 🤠", callback_data="about") ]] 
         await bot.send_photo(photo=random.choice(PICS), chat_id=update.chat.id, caption=START_MESSAGE.format(mention=update.from_user.mention, name=temp.Bot_Name, username=temp.Bot_Username), reply_markup=InlineKeyboardMarkup(pr0fess0r_99))
